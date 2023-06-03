@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
-char name[] = "Raimal Raja";
-char father_name[] = "Ramchand";
+char name[] = "Ghazal Rajab";
+char father_name[] = "Rajab Ali Alias Babu";
 int age = 19;
 char grade = 'A';
 
